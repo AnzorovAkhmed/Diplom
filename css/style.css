@@ -1,9 +1,6 @@
 *{
   box-sizing: border-box;
 }
-html{
-  scroll-behavior: auto;
-}
 a{
   text-decoration: none;
   display: inline-block;
